@@ -1,2 +1,3 @@
 # natProgramNew
-"nat" means "Nagayoshi Tool" used for program engine
+"nat" means "Nagayoshi Tool".
+This is my program engine library.
